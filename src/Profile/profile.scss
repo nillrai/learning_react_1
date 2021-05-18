@@ -1,0 +1,38 @@
+.profile {
+  // border: 1px solid black;
+  .profile-contant {
+    padding: 40px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    .profile-user {
+      display: flex;
+      align-items: center;
+      img {
+        border-radius: 50%;
+        // margin-left: 20px;
+        // margin-top: 20px;
+      }
+      p {
+        padding-left: 20px;
+      }
+    }
+  }
+
+  // p {
+  //   margin-top: 27px;
+  //   padding-left: 20px;
+  // }
+  // .switch-contant {
+  //   margin-top: 40px;
+  //   padding-left: 80px;
+  //   color: rgb(123, 123, 243);
+  // }
+  // .friend-request {
+  //   display: flex;
+  //   justify-content: space-between;
+  //   .paragrap {
+  //     color: rgb(165, 161, 161);
+  //   }
+  // }
+}
